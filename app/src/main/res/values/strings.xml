@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CountryList</string>
+    <string name="individual_flag_will_be_shown_here">Individual flag will be shown here</string>
+</resources>
